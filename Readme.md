@@ -38,3 +38,4 @@ System.out.println ("\n\t O IMC desta pessoa é"+ imc + "\n\n" );
      }
 
      Calculadora Simples Imc
+     Insira os dados
