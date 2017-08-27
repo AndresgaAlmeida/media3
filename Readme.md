@@ -1,6 +1,6 @@
 #Git Readme.md
 
-Este arquivo trás alguns exercícios ministrados na aula de Programação Orientada a objetos do professor Renato, do curso Análise e Desenvolvimento de Programas Facauldade Uninvove.
+ste arquivo trás alguns exercícios ministrados na aula de Programação Orientada a objetos do professor Renato, do curso Análise e Desenvolvimento de Programas Facauldade Uninvove.
 
 O primeiro exercício pede que o aluno faça o calculo do IMC de uma pessoa:
 

@@ -1,6 +1,7 @@
+a
 #Media3
 
-Este exercício foi o segundo aprendido na aula de Programação Orientada a Objetos em Java. Ele mostra a importancia da aplicação do Método em um programa
+aasdEste exercício foi o segundo aprendido na aula de Programação Orientada a Objetos em Java. Ele mostra a importancia da aplicação do Método em um programa
 usando os recursos da P.O.O.
 Com essa estrutura de controle de Fluxo podemos refinar ainda mais o programa.
 
@@ -57,3 +58,5 @@ Com essa estrutura de controle de Fluxo podemos refinar ainda mais o programa.
 	      return media;
 	 } 	
  }
+
+Linha acrescida
